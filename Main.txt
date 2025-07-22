@@ -16,8 +16,9 @@ local BrookhavenTab = Window:MakeTab({
     PremiumOnly = false
 })
 
--- Lista de scripts Brookhaven (com Fê Emotes adicionado e Coquette Hub removido)
+-- Lista de scripts Brookhaven (com Infinite Yield e Fê Emotes adicionados)
 local Scripts = {
+    {"Infinite Yield", "https://raw.githubusercontent.com/Shadow6698/infiniteyieldv2/main/Main.txt"},
     {"Gumball Hub", "https://raw.githubusercontent.com/JaozinScripts/Gumball-Hub/refs/heads/main/GumballHubRetorn2.1.1.1.lua"},
     {"Sander X", "https://rawscripts.net/raw/Brookhaven-RP-Sander-XY-35845"},
     {"Chaos Hub", "https://raw.githubusercontent.com/Venom-devX/ChaosHub/main/loader.lua"},
