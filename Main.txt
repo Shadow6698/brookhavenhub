@@ -16,17 +16,18 @@ local BrookhavenTab = Window:MakeTab({
     PremiumOnly = false
 })
 
--- Lista de scripts Brookhaven (com Infinite Yield e Fê Emotes adicionados)
+-- Lista de scripts Brookhaven
 local Scripts = {
     {"Infinite Yield", "https://raw.githubusercontent.com/Shadow6698/infiniteyieldv2/main/Main.txt"},
-    {"Gumball Hub", "https://raw.githubusercontent.com/JaozinScripts/Gumball-Hub/refs/heads/main/GumballHubRetorn2.1.1.1.lua"},
+    {"Coquette Hub", "https://rawscripts.net/raw/Brookhaven-RP-Coquette-Hub-41921"},
+    {"Duplicator Carros", "https://raw.githubusercontent.com/kigredns/Flame-Object/refs/heads/main/script.lua"},
+    {"Ayla Hub", "https://rawscripts.net/raw/Brookhaven-RP-Yin-Hub-21835"},
+    {"Shadow Hub", "https://raw.githubusercontent.com/realgengar/scripts/refs/heads/main/Gui%20Version.Lua"},
     {"Sander X", "https://rawscripts.net/raw/Brookhaven-RP-Sander-XY-35845"},
+    {"Gumball Hub", "https://raw.githubusercontent.com/JaozinScripts/Gumball-Hub/refs/heads/main/GumballHubRetorn2.1.1.1.lua"},
     {"Chaos Hub", "https://raw.githubusercontent.com/Venom-devX/ChaosHub/main/loader.lua"},
     {"Rael Hub", "https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt"},
-    {"Shadow Hub", "https://raw.githubusercontent.com/realgengar/scripts/refs/heads/main/Gui%20Version.Lua"},
     {"Speed Wave", "https://raw.githubusercontent.com/Shadow6698/vheiclespeed/main/Main.txt"},
-    {"Duplicator Carros", "https://raw.githubusercontent.com/kigredns/Flame-Object/refs/heads/main/script.lua"},
-    {"Yin Hub (executa Ayla Hub)", "https://rawscripts.net/raw/Brookhaven-RP-Yin-Hub-21835"},
     {"SP Hub", "https://rawscripts.net/raw/Brookhaven-RP-SP-Hub-New-Uptade-1o3v-33364"},
     {"Brutus Hub", "https://rawscripts.net/raw/Brookhaven-RP-BRUTUS-HUB-REUPLOUD-44098"},
     {"Nytherune Hub", "https://raw.githubusercontent.com/wx-sources/spacecomm/refs/heads/main/nytheruneplus"},
