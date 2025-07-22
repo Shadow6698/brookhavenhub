@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Snxd
 
 -- Create main window
 local Window = OrionLib:MakeWindow({
-    Name = "Mr_V4L3TiNO1109 HUB",
+    Name = "Brookhaven hub",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "Config"
@@ -19,6 +19,7 @@ local BrookhavenTab = Window:MakeTab({
 -- Lista de scripts Brookhaven
 local Scripts = {
     {"Infinite Yield", "https://raw.githubusercontent.com/Shadow6698/infiniteyieldv2/main/Main.txt"},
+    {"Remove Ban House", "https://raw.githubusercontent.com/Shadow6698/Main.txt/main/Main.txt"},
     {"Coquette Hub", "https://rawscripts.net/raw/Brookhaven-RP-Coquette-Hub-41921"},
     {"Duplicator Carros", "https://raw.githubusercontent.com/kigredns/Flame-Object/refs/heads/main/script.lua"},
     {"Ayla Hub", "https://rawscripts.net/raw/Brookhaven-RP-Yin-Hub-21835"},
