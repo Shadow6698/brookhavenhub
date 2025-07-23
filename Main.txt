@@ -1,7 +1,7 @@
 -- Load OrionLib
 local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Snxdfer/back-ups-for-libs/main/Orion.lua'))()
 
--- Create main window
+-- Criar janela principal
 local Window = OrionLib:MakeWindow({
     Name = "Brookhaven hub",
     HidePremium = false,
@@ -9,7 +9,7 @@ local Window = OrionLib:MakeWindow({
     ConfigFolder = "Config"
 })
 
--- Brookhaven Tab
+-- Aba Brookhaven
 local BrookhavenTab = Window:MakeTab({
     Name = "Brookhaven",
     Icon = "rbxassetid://4483345998",
@@ -28,7 +28,7 @@ local Scripts = {
     {"Gumball Hub", "https://raw.githubusercontent.com/JaozinScripts/Gumball-Hub/refs/heads/main/GumballHubRetorn2.1.1.1.lua"},
     {"Chaos Hub", "https://raw.githubusercontent.com/Venom-devX/ChaosHub/main/loader.lua"},
     {"Rael Hub", "https://raw.githubusercontent.com/Laelmano24/Rael-Hub/main/main.txt"},
-    {"Speed Wave", "https://raw.githubusercontent.com/Shadow6698/vheiclespeed/main/Main.txt"},
+    {"Speed Hub", "https://raw.githubusercontent.com/Shadow6698/vheiclespeed/main/Main.txt"},
     {"SP Hub", "https://rawscripts.net/raw/Brookhaven-RP-SP-Hub-New-Uptade-1o3v-33364"},
     {"Brutus Hub", "https://rawscripts.net/raw/Brookhaven-RP-BRUTUS-HUB-REUPLOUD-44098"},
     {"Nytherune Hub", "https://raw.githubusercontent.com/wx-sources/spacecomm/refs/heads/main/nytheruneplus"},
